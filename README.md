@@ -6,7 +6,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Automating+everything+%F0%9F%A4%96;Building+CI%2FCD+pipelines+%F0%9F%9A%80;Containerizing+with+Docker+%26+Kubernetes+%E2%98%B8%EF%B8%8F;Infrastructure+as+Code+with+Terraform+%F0%9F%8C%8D;Monitoring+%26+Observability+%F0%9F%93%8A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Automating+everything+%F0%9F%A4%96;Building+CI%2FCD+pipelines+%F0%9F%9A%80;Containerizing+with+Docker+%26+Kubernetes+%E2%98%B8%EF%B8%8F;Monitoring+%26+Observability+%F0%9F%93%8A" alt="Typing SVG" />
   </a>
 </div>
 
