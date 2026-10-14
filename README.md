@@ -1,6 +1,6 @@
 <!-- ===== HEADER BANNER (animated waves) ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20V-vk-404&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%2C%20I'm%20V-vk-200&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation&descAlignY=58&descSize=18" width="100%" />
 </div>
 
 <!-- ===== TYPING ANIMATION ===== -->
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 👋 Hi, I'm **@V-vk-404**, a DevOps Engineer passionate about automation and reliability
+- 👋 Hi, I'm **@V-vk-200**, a DevOps Engineer passionate about automation and reliability
 - 👀 Interested in **Cloud, Kubernetes, CI/CD, IaC, AWS Services**
 - 🌱 Currently learning **Jenkins CI/CD, GitHub Action, Docker, K8s.**
 - 💞️ Looking to collaborate on **open-source DevOps tools and automation projects**
